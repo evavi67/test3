@@ -4,7 +4,7 @@
 
 hola.
 
-**mensaje en negrita*
+**mensaje en negrita**
 
 *cursiva*
 
